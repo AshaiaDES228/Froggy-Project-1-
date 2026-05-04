@@ -1,0 +1,57 @@
+.background{
+    background-color: #5a6f31;
+}
+h1 {
+    color: #ffffff;
+    text-align:center;
+    margin-top: 20px;
+    font-style: oblique;
+    animation: glow 2s ease-in-out infinite;
+}
+p{
+    color: #ffffff;
+    text-align:center;
+    font-size: 26px;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin-center: 30px;
+    border-style: initial;
+    border-width: 2px;
+    border-color: #680404;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.intro-box,
+.details-box,
+.inspiration-card {
+    background: rgba(255, 255, 255, 0.08);
+    border: 2px solid rgba(255, 255, 255, 0.25);
+    border-radius: 16px;
+    margin: 20px auto;
+    padding: 18px;
+    max-width: 760px;
+    text-align: center;
+}
+
+.intro-box p,
+.details-box p,
+.inspiration-card p {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 700px;
+}
+
+.inspiration-card h2 {
+    color: #f8f8f8;
+    margin-bottom: 12px;
+}
+
+.inspiration-card img {
+    border-radius: 12px;
+    margin-bottom: 12px;
+    box-shadow: 0 0 18px rgba(0, 0, 0, 0.35);
+}
+
+.body {
+    background-color: #5a6f31;
+}
